@@ -1,4 +1,4 @@
-# 🌍 Travel Story App — *Your Adventures, Told Beautifully*
+# 🌍 Travel Story App
 
 > ✨ *Because every trip deserves a tale.*
 > Whether you're scaling mountains, wandering through bustling cities, or strolling along hidden beaches, the **Travel Story App** helps you **capture, organize, and relive your journeys**, one story at a time.
