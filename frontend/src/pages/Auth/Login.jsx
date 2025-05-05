@@ -68,11 +68,10 @@ const Login = () => {
   }, [currentUser])
 
   return (
-    <div className="h-screen bg-cyan-50 overflow-hidden relative">
-      <div className="login-ui-box right-10 -top-40" />
+    <div className="h-screen bg-red-0 overflow-hidden relative">
 
       <div className="container h-screen flex items-center justify-center px-20 mx-auto">
-        <div className="w-2/4 h-[90vh] flex items-end bg-[url('https://images.pexels.com/photos/731217/pexels-photo-731217.jpeg?auto=compress&cs=tinysrgb&w=600')] bg-cover bg-center rounded-lg p-10 z-50">
+        <div className="w-2/4 h-[85vh] flex items-end bg-[url('https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center rounded-lg p-4 z-50">
           <div>
             <h4 className="text-5xl text-white font-semibold leading-[58px]">
               Create Your <br /> Travel Stories
