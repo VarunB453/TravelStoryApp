@@ -4,6 +4,11 @@
 > Whether you're scaling mountains, wandering through bustling cities, or strolling along hidden beaches, the **Travel Story App** helps you **capture, organize, and relive your journeys**, one story at a time.
 
 ---
+| Screenshot 🛸|
+|:-----------:|
+| ![Screenshot 2025-05-05 151259](https://github.com/user-attachments/assets/157756a2-34c6-4945-b5fb-2a1f58ae0d70) |
+| ![Screenshot 2025-05-05 151852](https://github.com/user-attachments/assets/83459a64-d17b-42ae-a3c3-f9133238c228) |
+---
 
 ## 📸 What Can You Do?
 
